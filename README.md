@@ -3,6 +3,11 @@ color block of the browser's console.
 
 ![image](https://kevinchen2046.github.io/images/cscolorify-preview.png)
 
+### use
+```html
+    <script src="https://cdn.jsdelivr.net/npm/cscolorify" type="text/javascript"></script>
+```
+
 ### supported:
 - colorify
     - log - grey
