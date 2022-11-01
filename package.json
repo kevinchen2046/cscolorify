@@ -2,9 +2,10 @@
   "name": "cscolorify",
   "version": "1.0.0",
   "description": "color of the browser's console.",
-  "main": "dist/index.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc src/index.ts -t es2015 -m commonjs --outDir ./ --removeComments"
   },
   "repository": {
     "type": "git",
