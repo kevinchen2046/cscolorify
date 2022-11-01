@@ -1,0 +1,24 @@
+{
+  "name": "cscolorify",
+  "version": "1.0.0",
+  "description": "color of the browser's console.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinchen2046/cscolorify.git"
+  },
+  "keywords": [
+    "console",
+    "color",
+    "browser"
+  ],
+  "author": "kevin.chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinchen2046/cscolorify/issues"
+  },
+  "homepage": "https://github.com/kevinchen2046/cscolorify#readme"
+}
