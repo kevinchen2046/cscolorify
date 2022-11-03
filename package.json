@@ -1,6 +1,6 @@
 {
   "name": "cscolorify",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "color of the browser's console.",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "browser"
   ],
   "author": "kevin.chen",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/kevinchen2046/cscolorify/issues"
   },

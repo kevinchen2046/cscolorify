@@ -1,7 +1,7 @@
 ## cscolorify
 color block of the browser's console.
 
-![image](https://kevinchen2046.github.io/images/cscolorify-preview.png)
+![image](https://kevinchen2046.github.io/assets/images/cscolorify.png)
 
 ### use
 ```html
