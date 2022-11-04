@@ -1,6 +1,6 @@
 {
   "name": "cscolorify",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "color of the browser's console.",
   "main": "index.js",
   "scripts": {
